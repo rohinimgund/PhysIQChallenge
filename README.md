@@ -1,8 +1,9 @@
 # PhysIQChallenge
 
-PhysIQ Test Engineer Code Challenge
+# PhysIQ Test Engineer Code Challenge
 
 Features contain test scenarios for following steps:
+
 1. Starting from the physIQ homepage (https://www.physiq.com/) 
 
 2. Verify the Main office and Naperville office locations are correct on the “contact” page
@@ -15,7 +16,8 @@ Features contain test scenarios for following steps:
 
 6. Click “Read More” of the “inventory Specialist” on the “openings” page and take a screenshot of the position
 
-Steps to run test:
+# Steps to run test: 
+
 1. Download the zip of eclipse project from Github 
 
 2. Unzip project
@@ -31,14 +33,22 @@ Also in build path -> set java version properly
 
 6. Run testRunner.java as JUnit Test 
 
-
-Software/Framework version details:
-Java 			-  	Java SE 14.0.2
-Selenium 		- 	3.141.59
-Cucumber 		- 	6.11.0
-commons-io 		- 	2.6
-Chromedriver	-	Chrome version 92 (92.0.4515.107)
+# Generate files after run:
 
 Screenshots  =  src/test/resources/screenshots/
+
 Test results =  target/
+
+# Software/Framework version details:
+
+Java 			-  	Java SE 14.0.2
+
+Selenium 		- 	3.141.59
+
+Cucumber 		- 	6.11.0
+
+commons-io 		- 	2.6
+
+Chromedriver	-	Chrome version 92 (92.0.4515.107)
+
  
